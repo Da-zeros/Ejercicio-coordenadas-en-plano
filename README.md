@@ -1,1 +1,0 @@
-# Ejercicio-coordenadas-en-plano
